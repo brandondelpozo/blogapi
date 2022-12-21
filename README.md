@@ -1,4 +1,10 @@
 # blogapi
+To initilize the project please use the folowing command:
+1. pipenv shell
+2. pipenv install
+once inside the virtual environment and all the dependencies have been installed:
+3. (blogapi) > python manage.py runserver
+
 Using the URLconf defined in config.urls, Django tried these URL patterns, in this order:
 
     1. admin/
